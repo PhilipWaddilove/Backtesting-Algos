@@ -12,6 +12,8 @@ Code developed by Philip Millsapugh, Rasha Mosaad, Rawlric Sumner, Mitchel Volos
 6. [Combining signals with Deep Learning](#Deeplearning)
 7. [Conclusions and potential improvements](#Conclusion)
 
+<p>&nbsp;</p>
+
 ---
 ## 1. Introduction <a name="Introduction"></a>
     
