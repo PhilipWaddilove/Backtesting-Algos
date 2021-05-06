@@ -39,14 +39,14 @@ Return (%), StDev, Sharpe Ratio, Sortino Ratio, Max Drawdown (%)
 * Employ a deep learning libraries to combine and optimize signals from all strategies using Tensorflow.keras (Sequential), and Scikit_Learn
 * [Add signals derived from a Natural Language Processing ('NLP') analytics to refine strategy] 
 
-![Outline](Images/outline.png)
+![Outline](https://github.com/PhilipWaddilove/backtesting_algo_strategies/blob/main/Images/outline.PNG)
 
 ---
 ## 3. Datasets <a name="Datasets"></a>
 
 The Alpaca API can deliver closing price information over 10yrs for the following ETFs (all subsets of Standard & Poor's 'SPY' index)
 
-![Assets](Images/assets.png)
+![Assets](https://github.com/PhilipWaddilove/backtesting_algo_strategies/blob/main/Images/assets.PNG)
 
 ---
 ## 4. Backtesting <a name="backtesting"></a>
@@ -65,14 +65,14 @@ Conducts dummy trades on signals from historic data on each strategy.  Considers
 |`portfolio cumulative returns`| overall delta (as %) on initial capital |
 |``|``|
 
-![Backtesting](Images/backtesting.png)
+![Backtesting](https://github.com/PhilipWaddilove/backtesting_algo_strategies/blob/main/Images/backtesting.PNG)
 
 ---
 ## 5. Evaluation of signals <a name="Evaluation"></a>
 
 A broad index index investor (SPY) using an SMA (50/200 day window) performed well over last 10yrs, but the same strategy performs poorly for tech sector and crypto - RSI is a more consistent performer.
 
-![Evaluation](Images/evaluation.png)
+![Evaluation](https://github.com/PhilipWaddilove/backtesting_algo_strategies/blob/main/Images/evaluation.PNG)
 
 ---
 ## 6. Combining signals with Deep Learning <a name="Deeplearning"></a>
